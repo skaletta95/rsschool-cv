@@ -8,6 +8,10 @@
     src: url(../assets/fonts/Freeman.ttf);
 }
 
+html {
+    scroll-behavior: smooth;
+  }
+
 * {
     box-sizing: border-box;
 }
@@ -16,3 +20,35 @@ body {
     font-family: "Freeman";
     margin: 0;
 }
+
+body {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+  }
+
+  .nav-list {
+    background: #042d6b;
+    padding: 8px;
+    margin: 0;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    list-style: none;
+  }
+
+  .nav-item {
+    padding: 28px;
+    font-size: 20px;
+  }
+
+  .nav-link {
+    transition: 0.1s;
+    text-decoration: none;
+    color: #dbdbdb;
+  }
+
+  a.nav-link:hover,
+  a.nav-link:active {
+    border-bottom: 4px solid #dbdbdb;
+  }

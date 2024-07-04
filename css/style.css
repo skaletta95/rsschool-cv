@@ -1,0 +1,17 @@
+@font-face {
+    font-family: "AntonSC";
+    src: url(../assets/fonts/AntonSC.ttf);
+}
+
+@font-face {
+    font-family: "Freeman";
+    src: url(../assets/fonts/Freeman.ttf);
+}
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    font-family: "Freeman";
+}

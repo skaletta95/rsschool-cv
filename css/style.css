@@ -28,8 +28,8 @@ body {
   }
 
   .nav-list {
-    background: #042d6b;
-    padding: 8px;
+    background: #6b7075;
+    padding: 16px;
     margin: 0;
     display: flex;
     justify-content: flex-end;
@@ -38,17 +38,17 @@ body {
   }
 
   .nav-item {
-    padding: 28px;
+    padding: 0 28px;
     font-size: 20px;
   }
 
   .nav-link {
     transition: 0.1s;
     text-decoration: none;
-    color: #dbdbdb;
+    color: white;
   }
 
   a.nav-link:hover,
   a.nav-link:active {
-    border-bottom: 4px solid #dbdbdb;
+    border-bottom: 4px solid white;
   }

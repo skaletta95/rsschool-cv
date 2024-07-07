@@ -28,7 +28,7 @@ body {
   }
 
   h2 {
-    font-size 25px;
+    font-size: 25px;
     font-family: "AntonSC";
   }
 
@@ -37,6 +37,13 @@ body {
   .container {
     max-width: 100%;
   }
+
+  .flex {
+    display: flex;
+    flex-wrap: wrap;
+  }
+
+  
 
   .nav-list {
     background: #191970;
@@ -69,11 +76,11 @@ body {
   .main-container {
     display: flex;
     flex-wrap: wrap;
-    justify-content: space-around;
+    justify-content: center ;
   }
   
   .section {
-    width: 48%;
+    width: calc(50% - 32px);
     height: fit-content;
     color: #191970;
     margin: 16px;
@@ -135,4 +142,26 @@ body {
     list-style: none;
   }
 
+  .h2 {
+    font-family: "AntonSC";
+    font-weight: 500;
+    font-size: 30px;
+  }
   
+  .summary-list {
+    max-width: 50%;
+  }
+
+  .text {
+    font-size: 25px;
+  }
+
+  .summary,
+  .english,
+  .education {
+    padding-left: 40px;
+  }
+
+  .p {
+    font-size: 25px;
+  }

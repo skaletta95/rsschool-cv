@@ -27,6 +27,11 @@ body {
     justify-content: space-between;
   }
 
+  h2 {
+    font-size 25px;
+    font-family: "AntonSC";
+  }
+
   /*Header*/
 
   .container {

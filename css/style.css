@@ -73,7 +73,7 @@ body {
   }
   
   .section {
-    width: 50%;
+    width: 48%;
     height: fit-content;
     color: #191970;
     margin: 16px;
@@ -110,9 +110,29 @@ body {
     font-weight: normal;
     border-bottom: 5px solid #191970c3;
   }
-
+  
   .bottom {
     width: 90%;
     margin: 16px 0;
     border-bottom: 5px solid #191970;
   }
+  
+  /*Contacts*/
+
+  .list a {
+    color: #191970;
+    transition: 0.2;
+    text-decoration: none;
+  }
+
+  .list a .nav-link:hover,
+  .list a.nav-link:active {
+    border-bottom: 4px solid #191970;
+  }
+
+  .list {
+    font-size: 25px;
+    list-style: none;
+  }
+
+  

@@ -2,7 +2,7 @@
 ***
 ### contact information:
 * Phone: +79287358639
-* E-mail: windows.adam0701@gmail.com
+* Discord: hollowadam
 * Telegram: @Adam0701
 ***
 ### Brief Self-Introduction:
@@ -12,6 +12,7 @@ My name is Adam, I'm 18, and I've been programming since I was 14. This is my th
 * Base HTML
 * Base CSS
 * Git and GitHub
+* JavaScript
 ***
 ### Courses: 
 * Rolling Scopes school stage 0

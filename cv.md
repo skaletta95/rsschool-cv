@@ -2,22 +2,23 @@
 ***
 ### contact information:
 * Phone: +79287358639
-* E-mail: windows.adam0701@gmail.com
+* Discord: hollowadam
 * Telegram: @Adam0701
 ***
 ### Brief Self-Introduction:
-My name is Adam, I'm 18, and I've been programming since I was 14. This is my third attempt at this course. I find it difficult to devote enough time to it because I'm a university student and get home late, but I hope I'll complete it this time.
+My name is Adam, i am 18 years old. I was interested in IT-sphere since i was 15, i even tried to complete this course many times, but i failed. Now it is my fourth attempt and i hope it is the last one.
 ***
 ### Skills:
 * Base HTML
 * Base CSS
 * Git and GitHub
+* JavaScript
 ***
-### Courses: 
-* Rolling Scopes school stage 0
-* HTML and CSS basics
-* JS basics course
+### Education: 
+* HTML&CSS basics on Stepic
+* JS basics course (CodeBasics)
+* CSS basics course (CodeBasics)
+* HTML basics course (CodeBasics)
 ***
 ### Languages: 
 * English B1
-* Russian (native)
